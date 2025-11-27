@@ -17,4 +17,4 @@ failures.txt
 .DS_Store
 
 # Generated Content (Redundant - we commit mental_models_site/content)
-content/
+/content/
